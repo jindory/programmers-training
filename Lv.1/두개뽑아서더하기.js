@@ -3,7 +3,6 @@
 // 모든 수를 배열에 오름차순으로 담아 return 하도록 solution 함수를 완성해주세요.
 
 // 2022-06-06 메모: 크흡... 
-
 function solution(numbers) {
     var answer = [];
     
